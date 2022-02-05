@@ -1,0 +1,1 @@
+CTRL+SHIFT+T = tworzenie testów
