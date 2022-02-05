@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>_01-configuration-and-running-tests</module>
+        <module>_02-first-test</module>
     </modules>
 
     <properties>
