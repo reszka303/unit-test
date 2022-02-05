@@ -2,8 +2,6 @@ package pl.javastart.assertions;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.opentest4j.AssertionFailedError;
-
 
 class CalculatorTest {
 
@@ -19,7 +17,7 @@ class CalculatorTest {
         int result = calculator.add(a, b);
 
         // then
-        Assertions.assertEquals(3, result);
+        Assertions.assertEquals(2, result);
 
 //        Assertions.assertTrue(result == 3);
 

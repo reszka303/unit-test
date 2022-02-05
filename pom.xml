@@ -12,6 +12,7 @@
         <module>_01-configuration-and-running-tests</module>
         <module>_02-first-test</module>
         <module>_03-assertions</module>
+        <module>_04-basics-of-testing-exercise</module>
     </modules>
 
     <properties>
