@@ -13,6 +13,7 @@
         <module>_02-first-test</module>
         <module>_03-assertions</module>
         <module>_04-basics-of-testing-exercise</module>
+        <module>_05-unit-test-run-cycle</module>
     </modules>
 
     <properties>
