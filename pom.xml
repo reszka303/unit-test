@@ -16,6 +16,7 @@
         <module>_05-unit-test-run-cycle</module>
         <module>_06-naming-and-organization-of-tests</module>
         <module>_07-organization-of-tests-exercise</module>
+        <module>_08-assertions-in-junit</module>
     </modules>
 
     <properties>
