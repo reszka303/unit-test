@@ -18,6 +18,7 @@
         <module>_07-organization-of-tests-exercise</module>
         <module>_08-assertions-in-junit</module>
         <module>_09-assertions-in-junit-exercise</module>
+        <module>_10-static-importing-of-methods</module>
     </modules>
 
     <properties>
