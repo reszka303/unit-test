@@ -20,6 +20,7 @@
         <module>_09-assertions-in-junit-exercise</module>
         <module>_10-static-importing-of-methods</module>
         <module>_11-assertj-introduction-and-installation</module>
+        <module>_12-several-assertions-in-the-test</module>
     </modules>
 
     <properties>
@@ -38,9 +39,10 @@
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
-            <version>3.22.0</version>
+            <version>3.19.0</version>
             <scope>test</scope>
         </dependency>
+
 
     </dependencies>
 
