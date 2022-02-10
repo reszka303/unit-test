@@ -22,6 +22,7 @@
         <module>_11-assertj-introduction-and-installation</module>
         <module>_12-several-assertions-in-the-test</module>
         <module>_13-parameterization-of-tests</module>
+        <module>_14-parameterization-of-tests-exercise</module>
     </modules>
 
     <properties>
