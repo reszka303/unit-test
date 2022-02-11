@@ -24,11 +24,13 @@
         <module>_13-parameterization-of-tests</module>
         <module>_14-parameterization-of-tests-exercise</module>
         <module>_15-mocking-introduction</module>
+        <module>_16-creating-mocks</module>
     </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <mockito.version>4.3.1</mockito.version>
     </properties>
 
     <dependencies>
@@ -57,7 +59,14 @@
         <dependency>
             <groupId>org.mockito</groupId>
             <artifactId>mockito-core</artifactId>
-            <version>4.3.1</version>
+            <version>${mockito.version}</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-junit-jupiter</artifactId>
+            <version>${mockito.version}</version>
             <scope>test</scope>
         </dependency>
 
