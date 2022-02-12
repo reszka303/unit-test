@@ -25,6 +25,7 @@
         <module>_14-parameterization-of-tests-exercise</module>
         <module>_15-mocking-introduction</module>
         <module>_16-creating-mocks</module>
+        <module>_17-assigning-behavior-to-mocks</module>
     </modules>
 
     <properties>
