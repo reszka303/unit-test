@@ -28,6 +28,7 @@
         <module>_17-assigning-behavior-to-mocks</module>
         <module>_18-mocking-exercise</module>
         <module>_19-argument-matcher</module>
+        <module>_20-time-and-random-values</module>
     </modules>
 
     <properties>
