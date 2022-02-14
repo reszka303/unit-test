@@ -71,7 +71,6 @@ class UserTest {
 
         User user = new User("", creationDate);
 
-
         ZonedDateTime now = ZonedDateTime.of(
                 2023,
                 2,

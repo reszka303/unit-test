@@ -1,7 +1,5 @@
 package pl.javastart.timeandrandomvalues;
 
-import java.time.ZonedDateTime;
-
 public class UserCreationService {
 
     private DateTimeProvider dateTimeProvider;
