@@ -31,6 +31,7 @@
         <module>_20-time-and-random-values</module>
         <module>_21-random-values-exercise</module>
         <module>_22-exception-testing</module>
+        <module>_23-exceptions-testing-exercise</module>
     </modules>
 
     <properties>
