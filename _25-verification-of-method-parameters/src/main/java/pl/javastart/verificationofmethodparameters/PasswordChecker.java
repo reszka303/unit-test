@@ -1,4 +1,4 @@
-package pl.javastart.verificationofmethodcalls;
+package pl.javastart.verificationofmethodparameters;
 
 public class PasswordChecker {
 
@@ -22,7 +22,7 @@ public class PasswordChecker {
             // OK continue...
         } else {
             // invalid password
-            invalidPasswordService.notifyAboutInvalidPassword(1, "Próba włamania z ip: " + ip);
+            invalidPasswordService.notifyAboutInvalidPassword(1,"Próba włamania z ip: " + ip);
         }
     }
 

@@ -33,6 +33,7 @@
         <module>_22-exception-testing</module>
         <module>_23-exceptions-testing-exercise</module>
         <module>_24-verification-of-method-calls</module>
+        <module>_25-verification-of-method-parameters</module>
     </modules>
 
     <properties>
