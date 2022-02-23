@@ -34,6 +34,7 @@
         <module>_23-exceptions-testing-exercise</module>
         <module>_24-verification-of-method-calls</module>
         <module>_25-verification-of-method-parameters</module>
+        <module>_26-argument-captors</module>
     </modules>
 
     <properties>
