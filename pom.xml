@@ -35,6 +35,8 @@
         <module>_24-verification-of-method-calls</module>
         <module>_25-verification-of-method-parameters</module>
         <module>_26-argument-captors</module>
+        <module>_27-argument-captors-exercise</module>
+        <module>_28-setting-the-order-of-items-drag-and-drop</module>
     </modules>
 
     <properties>

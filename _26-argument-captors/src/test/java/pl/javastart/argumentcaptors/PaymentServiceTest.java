@@ -13,12 +13,9 @@ import static org.mockito.Mockito.*;
 
 class PaymentServiceTest {
 
-    @Mock
-    private PaymentRepository paymentRepository;
-    @Mock
-    private PaymentDto paymentDto;
-    @Captor
-    private ArgumentCaptor<Payment> captor;
+    @Mock private PaymentRepository paymentRepository;
+    @Mock private PaymentDto paymentDto;
+    @Captor private ArgumentCaptor<Payment> captor;
 
     private PaymentService paymentService;
 
