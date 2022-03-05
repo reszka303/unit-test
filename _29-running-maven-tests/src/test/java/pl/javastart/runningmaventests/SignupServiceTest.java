@@ -1,4 +1,4 @@
-package pl.javastart.argumentcaptorsexercise;
+package pl.javastart.runningmaventests;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
